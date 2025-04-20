@@ -5,4 +5,4 @@ Deng L, Liu S. Advancing photovoltaic system design: An enhanced social learning
 
 DOI: https://doi.org/10.1016/j.compind.2024.104209
 
-Before using the code of SAO to solve CEC2017 benchmarks, users should extract the file named "input_data.zip" first.
+Before using the code of ESLPSO to solve CEC2017 benchmarks, users should extract the file named "input_data.zip" first.
